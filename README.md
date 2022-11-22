@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Takalkar</h1>
-<h3 align="center">I love working on Robotics Projects</h3>
+<h3 align="center">I love Robotics</h3>
 
 - 🔭 I’m currently working on [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1)
 
