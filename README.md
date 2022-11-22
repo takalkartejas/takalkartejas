@@ -19,3 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takalkartejas&show_icons=true&locale=en" alt="takalkartejas" /></p>
 
+
+
