@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Takalkar</h1>
 <h3 align="center">I love Robotics</h3>
 <img align = "right" alt="coding" height="250" src="https://content.presentermedia.com/content/animsp/00013000/13515/retro_robot_waving_anim_300_wht.gif">
+
 - 🔭 I’m currently working on [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1)
 
 - 🌱 I’m currently learning **Advanced mobile robotics, Docker, REST API, Lidar and Radar**
