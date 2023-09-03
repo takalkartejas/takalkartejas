@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1)) -->
 
-- 🌱 I’m currently learning **Advanced mobile robotics, Docker, REST API, Lidar and Radar**
+- 🌱 I’m currently learning **Machine Learning and REST API**
 
 - 📫 How to reach me **takalkartejastt@gmail.com**
 
