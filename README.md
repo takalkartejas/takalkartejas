@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **takalkartejastt@gmail.com**
 
+- 🔭 Projects of intrest - [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1) [Maze solving robot](https://github.com/takalkartejas/maze-solving-turtlebot [Remote controlled robot](https://github.com/takalkartejas/website-controlled-robot)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-takalkar-15b31b147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-takalkar-15b31b147/" height="30" width="40" /></a>
