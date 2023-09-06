@@ -8,7 +8,10 @@
 
 - 📫 How to reach me **takalkartejastt@gmail.com**
 
-- 🔭 Projects of intrest - [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1) [Maze solving robot](https://github.com/takalkartejas/maze-solving-turtlebot [Remote controlled robot](https://github.com/takalkartejas/website-controlled-robot)
+- 🔭 Projects of interest -
+* [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1)
+* [Maze solving robot](https://github.com/takalkartejas/maze-solving-turtlebot)
+* [Remote controlled robot](https://github.com/takalkartejas/website-controlled-robot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
