@@ -9,14 +9,14 @@
 - 📫 How to reach me **takalkartejastt@gmail.com**
 
 - 🎓Master thesis -
-* [Data generation pipeline](https://github.com/takalkartejas/pybullet_robot_setup).
-* [Slip detection model training](https://github.com/takalkartejas/tactile_slip_detection).
+  * [Data generation pipeline](https://github.com/takalkartejas/pybullet_robot_setup).
+  * [Slip detection model training](https://github.com/takalkartejas/tactile_slip_detection).
   
 - 🔭 Projects of interest -
-* [Object sorting robot](https://github.com/takalkartejas/object_sorting_robot)
-* [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1)
-* [Maze solving robot](https://github.com/takalkartejas/maze-solving-turtlebot)
-* [Remote controlled robot](https://github.com/takalkartejas/website-controlled-robot)
+  * [Object sorting robot](https://github.com/takalkartejas/object_sorting_robot)
+  * [Postprocessing of Lidar and Radar data of a moving car](https://github.com/takalkartejas/LidarRadar_task1)
+  * [Maze solving robot](https://github.com/takalkartejas/maze-solving-turtlebot)
+  * [Remote controlled robot](https://github.com/takalkartejas/website-controlled-robot)
   
 
 <h3 align="left">Connect with me:</h3>
